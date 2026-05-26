@@ -1,0 +1,12 @@
+langchain-google-genai
+langchain-community
+langchain
+python-dotenv
+streamlit
+langgraph
+pydantic
+yfinance
+requests
+fastapi
+uvicorn
+spacy
